@@ -54,7 +54,7 @@
     "joi": "^17.6.0",
     "jsonwebtoken": "8.5.1",
     "pg": "^8.8.0",
-    "sequelize": "6.9.0",
+    "sequelize": "6.37.5",
     "swagger-ui-express": "^4.6.0",
     "ts-node": "10.7.0",
     "ts-node-dev": "1.1.8",
